@@ -2,7 +2,7 @@
 <img align="right" height="200"src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png">
 <h2> Autorização de Uso concedida</h2>
 <h3> Salve uma cópia e utilize os modelos para desenvolver suas respostas!</h3>
-<a href="https://github.com/venelouis/desafios-de-codigo-squadio/fork">
+<a href="https://github.com/venelouis//Desafios-de-codigo-Java-AI-Powered/fork">
 <img alt="Fork" title="Fork Button" src="https://shields.io/badge/-Clique%20AQUI%20para%20realizar%20um%20FORK-orange.svg?&style=for-the-badge&logo=github&logoColor=white"/></a><br>
 *Este repositório foi elaborado apra ajudar todos os participantes do bootcamp a entender e realizar os desafios do mesmo. Não simplesmente copie e cole, exercite sua mente, tente entender o que foi produzido, e se possível tente resolver de outra forma e/ou melhor este código (crie uma issue, pull request, etc). Inspirado pelo: <a href="https://discord.com/channels/689887036110274618/1210779218812870796"> canal: desafios-de-projeto no servidor do Discord da Dio. </a>
 
@@ -32,9 +32,9 @@ Caso tenha alguma dúvida, queria relatar algum erro na plataforma ou até uma s
 
 <div align="center">
   <p>
-      <img src="https://img.shields.io/github/languages/count/venelouis/desafios-de-codigo-squadio"/>
-      <img src="https://img.shields.io/github/repo-size/venelouis/desafios-de-codigo-squadio"/>
-      <img src="https://img.shields.io/github/last-commit/venelouis/desafios-de-codigo-squadio"/>
-      <img src="https://img.shields.io/github/issues/venelouis/desafios-de-codigo-squadio"/>
+      <img src="https://img.shields.io/github/languages/count/venelouis/Desafios-de-codigo-Java-AI-Powered"/>
+      <img src="https://img.shields.io/github/repo-size/venelouis/Desafios-de-codigo-Java-AI-Powered"/>
+      <img src="https://img.shields.io/github/last-commit/venelouis/Desafios-de-codigo-Java-AI-Powered"/>
+      <img src="https://img.shields.io/github/issues/venelouis/Desafios-de-codigo-Java-AI-Powered"/>
   </p> 
 </div>
